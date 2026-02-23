@@ -7,7 +7,7 @@ just drag and drop to ur folder. ensure it to ur server.cfg.
 
 [Dependency]
 
-ox_lib
+ox_lib <br>
 ox_target
 ox_inventory
 qbx_core
